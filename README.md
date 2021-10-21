@@ -6,11 +6,11 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanielB&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-A línguagem que estou usando agora
+<h1>A línguagem que estou usando agora</h1>
 
 <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-A línguagens que eu já usei
+<h1>A línguagens que eu já usei</h1>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
