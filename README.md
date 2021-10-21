@@ -5,6 +5,13 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhanielB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanielB&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+A línguagem que estou usando agora
+
+<img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+A línguagens que eu já usei
+
 <div style="display: inline_block"><br>
  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
