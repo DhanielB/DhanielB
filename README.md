@@ -8,7 +8,7 @@
 
 <h1>A línguagem que estou usando agora</h1>
 
-<img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-woodmark.svg">
+<img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 
 <h1>A línguagens que eu já usei</h1>
 
