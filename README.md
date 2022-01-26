@@ -1,4 +1,4 @@
-# Olá bem-vindo a meu GitHub, sou o Dhaniel Brandão
+# Olá bem-vindo a meu GitHub, Sou o Dhaniel Brandão
 
 <div align="center">
  <a href="https://github.com/DhanielB">
