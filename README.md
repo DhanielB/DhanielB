@@ -9,7 +9,7 @@
 <h1>A línguagem que estou usando agora</h1>
 
 <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+<img align="center" alt="reactnative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <h1>A línguagens que eu já usei</h1>
 
 <div style="display: inline_block"><br>
