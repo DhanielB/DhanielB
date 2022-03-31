@@ -63,7 +63,6 @@
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=dhanielB&layout=wide&show_reply=off&show_retweet=off" />
 
 -->
-<img src="https://raw.githubusercontent.com/DhanielB/DhanielB/output/github-contribution-grid-snake.svg"/>
 
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,6 +78,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/DhanielB/DhanielB/output/github-contribution-grid-snake.svg"/>
 
 <!-- # Olá bem-vindo a meu GitHub, Sou o Dhaniel Brandão
 
