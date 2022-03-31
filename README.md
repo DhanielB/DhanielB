@@ -36,7 +36,6 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=dhanielb&show_icons=true&theme=tokyonight" alt="dhanielb's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanielb&layout=compact&theme=tokyonight" alt="dhanielb's most languages"/>
-<img src="https://raw.githubusercontent.com/DhanielB/DhanielB/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <br><br>
@@ -64,6 +63,7 @@
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=dhanielB&layout=wide&show_reply=off&show_retweet=off" />
 
 -->
+<img src="https://raw.githubusercontent.com/DhanielB/DhanielB/output/github-contribution-grid-snake.svg"/>
 
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
