@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dhaniel Brandão</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanielb&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Junior Web Developer
 
 - 🔭 I’m currently working at [Home](https://github.com/DhanielB)
 
