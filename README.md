@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Home](https://github.com/DhanielB)
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 All of my projects are available at [dhanielb.com.br](https://dhanielb.vercel.app)
 
 - ▶️ I regularly post videos on undefined<!-- [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
 
